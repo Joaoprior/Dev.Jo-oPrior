@@ -111,8 +111,14 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaoprior/joaoprior/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaoprior/joaoprior/output/github-contribution-grid-snake.svg">
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/joaoprior/joaoprior/output/github-contribution-grid-snake.svg">
 </picture>
