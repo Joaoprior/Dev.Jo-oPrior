@@ -93,7 +93,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 <p>
   <img
-    align="center"
+    align="left""
     alt="Estatísticas do GitHub"
     height="150"
     src="https://github-readme-stats.vercel.app/api?username=joaoprior&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub"
@@ -102,7 +102,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 
 <img 
-      align="center" 
+     align="left"
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=joaoprior&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
@@ -111,7 +111,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
