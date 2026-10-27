@@ -119,8 +119,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Joaoprior/JoaoPrior.Dev/output/github-contribution-grid-snake.svg">
-    <img
-      alt="Animação das contribuições do GitHub"
+    <img gn="center" alt= alt="Animação das contribuições do GitHub"
       src="https://raw.githubusercontent.com/Joaoprior/JoaoPrior.Dev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
