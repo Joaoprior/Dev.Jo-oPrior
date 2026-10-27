@@ -14,7 +14,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 <h3 align="left">Connect with me!</h3>
 
 
-[![E-mail](https://img.shields.io/badge/Email-Contato-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoprior61@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joaoprior61@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/joaopriorr/)
 
