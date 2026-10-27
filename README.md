@@ -111,7 +111,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 </p>
 
-<p align="left">
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
