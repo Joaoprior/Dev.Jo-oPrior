@@ -5,7 +5,7 @@
 </div>
 
 #
-Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou formado de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse em programação, desenvolvimento web e hardware, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Gosto de compartilhar conhecimentos, desenvolver projetos e encontrar soluções criativas por meio da tecnologia.
+Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse em programação, desenvolvimento web e hardware, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Gosto de compartilhar conhecimentos, desenvolver projetos e encontrar soluções criativas por meio da tecnologia.
  
 #
 
@@ -16,7 +16,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=preto)](https://mail.google.com/mail/?view=cm&to=joaoprior61@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/?view=cm&to=joaoprior61@gmail.com)
 
 
 
@@ -108,9 +108,9 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
   />
 
 
-</p>
+ 
 
-<p  align="left ">
+<p  align="left">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -119,7 +119,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Joaoprior/JoaoPrior.Dev/output/github-contribution-grid-snake.svg">
     <img
-      alt= alt="Animação das contribuições do GitHub"
+      alt="Animação das contribuições do GitHub"
       src="https://raw.githubusercontent.com/Joaoprior/JoaoPrior.Dev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
