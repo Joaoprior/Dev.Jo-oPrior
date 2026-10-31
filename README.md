@@ -90,7 +90,7 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 <h3 align="center">GitHub Stats</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/joaoprior">
     <img
       height="180"
