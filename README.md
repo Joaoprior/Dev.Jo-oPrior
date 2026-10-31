@@ -97,12 +97,13 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
   />
 </p>
 
+<p align="left">
 <img
   height="200"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaoprior&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   alt="Linguagens mais utilizadas"
 />
-
+</p>
 
 
  
