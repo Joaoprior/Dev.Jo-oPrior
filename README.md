@@ -86,21 +86,23 @@ Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou 
 
 
 
+
 <h3 align="left">GitHub Stats</h3>
 
-<div align="center">
+<p align="left">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=joaoprior&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas"
-    alt="GitHub Stats"
+    height="150"
+    src="https://github-stats-extended.vercel.app/api?username=joaoprior&show_icons=true&locale=pt-br&hide=contribs&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas%20do%20GitHub"
+    alt="Estatísticas do GitHub"
   />
+</p>
 
-  <img
-    height="180"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=joaoprior&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-    alt="Stack"
-  />
-</div>
+<img
+  height="200"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaoprior&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+  alt="Linguagens mais utilizadas"
+/>
+
 
 
  
